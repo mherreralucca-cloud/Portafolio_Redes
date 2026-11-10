@@ -1,4 +1,4 @@
-# 🔒 Portafolio: Ciberseguridad 
+# Portafolio: Infraestructura, Redes y Ciberseguridad 
 
 ¡Hola! 👋 Soy **Lucca Martinenghi Herrera**, Técnico en Redes de Datos y Telecomunicaciones.
 
